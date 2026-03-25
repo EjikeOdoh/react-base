@@ -1,10 +1,10 @@
 
-import './App.css'
+import ShadesOfSkin from './shades-of-skin'
 
 function App() {
 
   return (
-    <h1>App</h1>
+    <ShadesOfSkin />
   )
 }
 
